@@ -8,6 +8,8 @@ Two bodies are defined: Earth and the spacecraft. The gravitational force is com
 Numpy and Matplotlib libraries are used to calculate the orbital trajectory, position, velocity, acceleration, distance, periapsis, apoapsis, and approx. orbital period.
 
 
+References:
+I referred to online resources and tools to understand how to implement mathematical calculations and use numpy and libraries, and then modified the code based on my understanding.
 	​
 
 	​
