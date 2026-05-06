@@ -1,4 +1,4 @@
-# Simulation-model-of-Artemis-
+# Simulation of Two body interaction
 This project is a physics-based simulation of a satellite orbiting Earth using basic gravity laws.
 Concept:
 The idea is to simulate a spacecraft moving under gravity in space.
